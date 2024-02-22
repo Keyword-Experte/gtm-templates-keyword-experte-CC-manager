@@ -12,8 +12,14 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+
 homepage: "https://keyword-experte.de/"
 documentation: "https://keyword-experte.de/cookie-consent/"
 versions:
+ # Latest version
+  - sha: f27c09ab6e13785c451b55ab6ed2823760021d79
+    changeNotes: Integration consent mode v2 and updated template, so only API-key is required 
+
+  # Older versions
   - sha: ac74954744fe3b645799cb2522f1f28fbefe7216
     changeNotes: Initial Version
